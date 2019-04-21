@@ -9,7 +9,7 @@
 		</update>
 	</info>
 	
-	<element name="Custom Background" type="Background" source="Reddit" id="ID_RDDT_BACKGROUND_GOAT">
+	<element name="* Custom Background *" type="Background" source="BSpecific" id="ID_RDDT_BACKGROUND_GOAT">
 		<description>
 			<p>Description Paragraph 1.</p>
 			<p class="indent">Description Paragraph 2</p>
