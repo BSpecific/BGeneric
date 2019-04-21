@@ -8,10 +8,10 @@
 		<author url="">
 		</author>
 		<update version="0.0.6" revised="">
-			<file name="custom.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/homebrew/reddit.index" />
+			<file name="custom.index" url="https://github.com/BSpecific/BGeneric/blob/master/custom.index" />
 		</update>
 	</info>
 	<files>
-		<file name="background-custom.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/homebrew/reddit/backgrounds/background-custom.xml" />
+		<file name="background-custom.xml" url="https://github.com/BSpecific/BGeneric/blob/master/background-custom.xml" />
 	</files>
 </index>

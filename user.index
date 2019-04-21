@@ -3,10 +3,10 @@
 	<info>
 		<name>User</name>
 		<update version="0.0.1">
-			<file name="user.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/homebrew.index" />
+			<file name="user.index" url="https://github.com/BSpecific/BGeneric/blob/master/user.index" />
 		</update>
 	</info>
 	<files>
-		<file name="reddit.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/homebrew/reddit.index" />		
+		<file name="custom.index" url="https://github.com/BSpecific/BGeneric/blob/master/custom.index" />		
 	</files>
 </index>
