@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index>
 	<info>
-		<name>User</name>
-		<update version="0.0.1">
+		<name>BSpecific</name>
+		<update version="0.0.2">
 			<file name="user.index" url="https://github.com/BSpecific/BGeneric/blob/master/bspecific.index" />
 		</update>
 	</info>
