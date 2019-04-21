@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>
+		</name>
+		<description>
+		</description>
+		<author url="">
+		</author>
+		<update version="0.0.6" revised="">
+			<file name="custom.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/homebrew/reddit.index" />
+		</update>
+	</info>
+	<files>
+		<file name="background-custom.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/homebrew/reddit/backgrounds/background-custom.xml" />
+	</files>
+</index>
