@@ -4,12 +4,12 @@
 		<name>Custom Background</name>
 		<description>Custom Background</description>
 		<author url="https://www.reddit.com/r/UnearthedArcana/comments/7jnwr5/was_a_goat_for_10_years/">u/_Metabot</author>
-		<update version="0.0.1">
+		<update version="0.0.2">
 			<file name="background-custom.xml" url="https://github.com/BSpecific/BGeneric/blob/master/background-custom.xml" />
 		</update>
 	</info>
 	
-	<element name="* Custom Background *" type="Background" source="BSpecific" id="ID_RDDT_BACKGROUND_GOAT">
+	<element name="* Custom Background *" type="Background" source="BSpecific" id="ID_BSPEC_BACKGROUND_CUSTOM">
 		<description>
 			<p>Description Paragraph 1.</p>
 			<p class="indent">Description Paragraph 2</p>
@@ -19,7 +19,7 @@
 				<li><strong>Tool Proficiencies:</strong> Available tools proficiencies.</li>
 				<li><strong>Equipment:</strong> Starting equipment package.</li>
 			</ul>
-			<div element="ID_RDDT_BACKGROUND_FEATURE_GOAT_CHARACTERISTICST" />
+			<div element="ID_BSPEC_BACKGROUND_FEATURE_CUSTOM_CHARACTERISTICST" />
 			<h5>SUGGESTED CHARACTERISTICS</h5>
 			<p>Describe suggested characteristics.</p>
 		</description>			
@@ -28,7 +28,7 @@
 			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_ANIMALHANDLING" />
 			<select type="Language" name="Language (Goat)" />
 			<select type="Proficiency" name="Tool Proficiency (Goat)" supports="Tool" />
-			<grant type="Background Feature" id="ID_RDDT_BACKGROUND_FEATURE_GOAT_CHARACTERISTICST" requirements="!ID_INTERNAL_GRANT_OPTIONAL_BACKGROUND_FEATURE"/>
+			<grant type="Background Feature" id="ID_BSPEC_BACKGROUND_FEATURE_CUSTOM_CHARACTERISTICST" requirements="!ID_INTERNAL_GRANT_OPTIONAL_BACKGROUND_FEATURE"/>
 			<select type="Background Feature" name="Variant Feature" supports="Optional Background Feature" optional="true" />
 			<select type="List" name="Personality Trait" number="2">
 				<item id="1">Personality Trait 1.</item>
@@ -57,7 +57,7 @@
 		</rules>			
 	</element>
 	
-	<element name="Feature: Custom Feature" type="Background Feature" source="Reddit" id="ID_RDDT_BACKGROUND_FEATURE_GOAT_CHARACTERISTICST">
+	<element name="Feature: Custom Feature" type="Background Feature" source="Reddit" id="ID_BSPEC_BACKGROUND_FEATURE_CUSTOM_CHARACTERISTICST">
 		<supports>Background Feature</supports>
 		<description>
 			<p>Explain your background feature..</p>
